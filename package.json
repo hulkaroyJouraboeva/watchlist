@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hulkaroyJouraboeva/watchlist/issues"
   },
-  "homepage": "https://github.com/hulkaroyJouraboeva/watchlist#readme"
+  "homepage": "https://github.com/hulkaroyJouraboeva/watchlist#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
