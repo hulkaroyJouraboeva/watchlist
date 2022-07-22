@@ -1,0 +1,19 @@
+{
+  "name": "watchlist",
+  "version": "1.0.0",
+  "description": "CRUD application built with vanilla JS in the frontend, Express & PostgreSQL in the backend. Add movies to your Watchlist app, and experiment with the other functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hulkaroyJouraboeva/watchlist.git"
+  },
+  "author": "Hulkaroy J.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hulkaroyJouraboeva/watchlist/issues"
+  },
+  "homepage": "https://github.com/hulkaroyJouraboeva/watchlist#readme"
+}
